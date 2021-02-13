@@ -61,7 +61,7 @@ Step 3: Run the program from command line, then open it in a text editor
 
 - Execute the "main.rb" file typing:
 
-   ruby ./bin/main.rb
+    ruby ./bin/main.rb
 
 ## BUILT WITH
 - Ruby
@@ -82,9 +82,9 @@ Give a ⭐️ if you like this project!
 
 
 ## Acknowledgments
-The Odin Project
-codecademy
-lanch Schools
+- The Odin Project
+- codecademy
+- lanch Schools
 
 
 ## 📝 License MIT
