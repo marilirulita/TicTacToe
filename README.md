@@ -1,5 +1,5 @@
 # TicTacToe
-This project involves building a Tic Tac Toe game. The main goal is to put into practice the main concepts of Object Oriented Programming, getting users input and printing the result to the screen, building a game logic and creating the game. I also tested all methods using rspec and made sure it passes all cases by refactoring.
+This project involves building a Tic Tac Toe game. The main goal is to put into practice the main concepts of Object Oriented Programming, getting users input and printing the result to the screen, building a game logic and creating the game.
 
 ## Game Instructions
 * This game uses a board of 9 spaces divided into  3rows and 3colums.
@@ -51,9 +51,11 @@ To get your own copy of our project simply clone the repository to your local ma
 
 Step 1: Type the following command into a git shell
 
-git clone https://github.com/diamond-nicholas/TicTacToe.git
+git clone https://github.com/marilirulita/TicTacToe.git
 
-Step 2: Direct a terminal into the cloned repository directory cd tictactoe
+Step 2: Direct a terminal into the cloned repository directory 
+    
+    cd TicTacToe
 
 Step 3: Run the program from command line, then open it in a text editor
 
@@ -68,22 +70,16 @@ Step 3: Run the program from command line, then open it in a text editor
 
 - Rubocop linters
 
-- Rspec gem
 
-## AUTHORS
-👤 **Diamond Nicholas**
-- GitHub:[@Diamond-Nicholas] (https://github.com/diamond-nicholas)
-- Twitter: [@twitterhandle](https://twitter.com/diamondnich)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/diamond-nicholas/)
+👤 **Mar y Sol Bautista**
+- GitHub: [@marilirulita](https://github.com/marilirulita)
+- Linkedin: [Mar y Sol Bautista](https://www.linkedin.com/in/mar-y-sol-bautista-alvarez-5a6894151/)
+- Twiter: [@marylirulita](https://twitter.com/marylirulita)
 
 
 ## SHOW YOUR SUPPORT
-Give a \* if you like the project
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page. Show your support
 Give a ⭐️ if you like this project!
+
 
 ## Acknowledgments
 The Odin Project
@@ -92,4 +88,4 @@ lanch Schools
 
 
 ## 📝 License MIT
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
